@@ -1,3 +1,6 @@
+Workshop: 
+[![Build Status](https://img.shields.io/travis/mlucchini/kotlin-koans.svg)](https://travis-ci.org/mlucchini/kotlin-koans)
+
 Kotlin Koans
 ===========
 
